@@ -1,5 +1,6 @@
-.App {
-	height: 100vh;
+.content {
+	margin-top: 72px;
+	height: 100%;
 	display: flex;
 	flex-flow: column;
 	flex: 1;
